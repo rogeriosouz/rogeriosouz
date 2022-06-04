@@ -1,4 +1,4 @@
-## 😀 Olá eu me chamo Rogerio pereira estudo programaçao web, front-end e beck-end
+## 😀👨🏻‍💻 Olá eu me chamo Rogerio pereira estudo programaçao web, front-end e beck-end
 
 <div align="center">
   <a href="https://github.com/rogeriosouz">
