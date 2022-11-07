@@ -18,6 +18,7 @@
   
   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://user-images.githubusercontent.com/76504596/200348162-4742b393-80ab-406c-8a69-1d8937495c70.svg">
 </div>
   
 ##
@@ -30,3 +31,4 @@
 </div>
   
  
+
