@@ -19,6 +19,8 @@
   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://user-images.githubusercontent.com/76504596/200348162-4742b393-80ab-406c-8a69-1d8937495c70.svg">
+   <img align="center" alt="Rogerio-Python" height="30" width="40" src="https://velog.velcdn.com/images/jongsunpark88/post/32f4053b-daa1-4fbc-b8e5-2a3d0651faf4/style300.png">
+  
 </div>
   
 ##
