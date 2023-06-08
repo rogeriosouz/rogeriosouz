@@ -10,14 +10,16 @@
 
 <!-- Habilidades -->
 ### ⚡ Minhas Habilidades
-<div style="display: flex;">
-  <img  alt="Rogerio-Ts" height="30" width="150" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<div>
+  <img  alt="Rogerio-HTML" height="30" width="150" src="https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
-  <img  alt="Rogerio-Ts" height="30" width="150" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img  alt="Rogerio-CSS" height="30" width="150" src="https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
-  <img  alt="Rogerio-Ts" height="30" width="150" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img  alt="Rogerio-JavaScript" height="30" width="150" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   
-  <img  alt="Rogerio-nodejs" height="30" width="150" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img  alt="Rogerio-TypeScript" height="30" width="150" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  
+  
   
   <img  alt="Rogerio-Reactjs" height="30" width="150" src="https://img.shields.io/badge/React.js-%23007ACC?style=for-the-badge&logo=react&logoColor=white">
   
@@ -25,7 +27,12 @@
  
   <img  alt="Rogerio-Tailwind" height="30" width="150" src="https://img.shields.io/badge/Tailwind%20CSS-%2361DAFB?style=for-the-badge&logo=tailwind-css&logoColor=white">
   
-   <img  alt="Rogerio-nodejs" height="30" width="150" src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+   <img  alt="Rogerio-Styled-components" height="30" width="150" src="https://img.shields.io/badge/Styled%20Components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+  
+  <img  alt="Rogerio-nodejs" height="30" width="150" src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white">
+  <img  alt="Rogerio-prisma" height="30" width="150" src="https://img.shields.io/badge/Prisma-%230E1A36?style=for-the-badge&logo=prisma&logoColor=white">
+  <img  alt="Rogerio-sql" height="30" width="150" src="https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=sql&logoColor=white">
+  <img  alt="Rogerio-sql" height="30" width="150" src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   
   <img  alt="Rogerio-vs-code" height="30" width="150" src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   
